@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7459fcef748f04d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "491466b6e999b22f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "城市/广场.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5af99ff2ce18356",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4d969195c7c24d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00a71d6090818c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20b625c00f2d0cc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 178
+  },
+  "right": {
+    "id": "f9c8a89e5dae4d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c2e052f34005d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5164f83d86e86ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "城市/广场.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "491466b6e999b22f",
+  "lastOpenFiles": [
+    "城市/广场.md",
+    "城市/城市.md",
+    "角色/额外属性.md",
+    "建筑/属性.md",
+    "建筑/建筑.md",
+    "建筑/工作.md",
+    "角色/生存属性.md",
+    "角色/战斗属性.md",
+    "怪物/怪物.md",
+    "指南 & 进度/指南 & 进度.md"
+  ]
+}
