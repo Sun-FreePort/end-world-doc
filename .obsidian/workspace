@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "7459fcef748f04d2",
+    "id": "78995fb0f38eda3b",
     "type": "split",
     "children": [
       {
-        "id": "491466b6e999b22f",
+        "id": "b67e96279383e1ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "城市/广场.md",
+            "file": "建筑/工作.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a5af99ff2ce18356",
+    "id": "f48385a6ad40c52f",
     "type": "split",
     "children": [
       {
-        "id": "b4d969195c7c24d1",
+        "id": "48841381900725f5",
         "type": "tabs",
         "children": [
           {
-            "id": "d00a71d6090818c2",
+            "id": "7574b3680c6feac6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "20b625c00f2d0cc4",
+            "id": "679d832c8e185435",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178
+    "width": 300
   },
   "right": {
-    "id": "f9c8a89e5dae4d44",
+    "id": "4dd6b894903b5ac5",
     "type": "split",
     "children": [
       {
-        "id": "e7c2e052f34005d4",
+        "id": "48f6868055e034f2",
         "type": "tabs",
         "children": [
           {
-            "id": "5164f83d86e86ad4",
+            "id": "e240815826db7650",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "城市/广场.md",
+                "file": "建筑/工作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "491466b6e999b22f",
+  "active": "b67e96279383e1ad",
   "lastOpenFiles": [
-    "城市/广场.md",
-    "城市/城市.md",
-    "角色/额外属性.md",
-    "建筑/属性.md",
-    "建筑/建筑.md",
     "建筑/工作.md",
+    "食谱/食谱.md",
+    "建筑/建筑.md",
+    "建筑/属性.md",
+    "郊外/战斗.md",
+    "郊外/怪物.md",
+    "郊外/地图.md",
     "角色/生存属性.md",
     "角色/战斗属性.md",
-    "怪物/怪物.md",
-    "指南 & 进度/指南 & 进度.md"
+    "角色/升级.md"
   ]
 }
