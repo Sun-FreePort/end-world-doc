@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "建筑/工作.md",
+            "file": "角色/生存属性.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "建筑/工作.md",
+                "file": "角色/生存属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b67e96279383e1ad",
   "lastOpenFiles": [
+    "角色/生存属性.md",
+    "郊外/战斗.md",
+    "郊外/地图.md",
+    "郊外/怪物.md",
+    "建筑/建筑.md",
+    "指南 & 进度/文档编写指南.md",
+    "指南 & 进度/碎信息.md",
     "建筑/工作.md",
     "食谱/食谱.md",
-    "建筑/建筑.md",
-    "建筑/属性.md",
-    "郊外/战斗.md",
-    "郊外/怪物.md",
-    "郊外/地图.md",
-    "角色/生存属性.md",
-    "角色/战斗属性.md",
-    "角色/升级.md"
+    "建筑/属性.md"
   ]
 }
