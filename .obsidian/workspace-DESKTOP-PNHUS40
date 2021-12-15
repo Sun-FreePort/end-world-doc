@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c51676a4c1a92c9a",
+        "id": "b67e96279383e1ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c51676a4c1a92c9a",
+  "active": "b67e96279383e1ad",
   "lastOpenFiles": [
     "建筑/工作.md",
-    "郊外/战斗.md",
-    "郊外/地图.md",
-    "郊外/怪物.md",
-    "角色/额外属性.md",
-    "角色/生存属性.md",
+    "城市/市场.md",
+    "城市/广场.md",
+    "城市/城市属性.md",
+    "角色/升级.md",
     "角色/战斗属性.md",
-    "食物/食物大类.md",
-    "系统/时间.md",
-    "建筑/建筑.md"
+    "角色/生存属性.md",
+    "角色/角色.md",
+    "角色/额外属性.md",
+    "郊外/战斗.md"
   ]
 }
